@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  text-align: center;
+  font-family: monospace;
+  font-weight: 900;
+}
+
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
