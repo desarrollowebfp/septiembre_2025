@@ -1,0 +1,18 @@
+:root {
+  --at-primary-color: #101010;
+  --at-secondary-color: #eaeaea;
+  --at-font-size-medium: 14px;
+}
+
+body {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-auto-rows: 200px;
+  gap: 10px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
