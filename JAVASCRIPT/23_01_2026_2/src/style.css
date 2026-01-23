@@ -1,0 +1,24 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+footer {
+  text-align: center;
+}
