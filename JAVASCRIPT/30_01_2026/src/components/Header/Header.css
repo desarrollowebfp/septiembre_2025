@@ -1,0 +1,15 @@
+header {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header ul {
+  display: flex;
+  gap: 20px;
+}
+
+header h1 {
+  color: orangered;
+}

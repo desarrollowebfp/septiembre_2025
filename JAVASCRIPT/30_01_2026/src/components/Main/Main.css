@@ -1,0 +1,23 @@
+main {
+  padding: 20px;
+}
+
+main h2 {
+  text-align: center;
+}
+
+main ul {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: center;
+  padding: 20px;
+}
+
+main li {
+  padding: 20px;
+  border: 1px whitesmoke dashed;
+  border-radius: 12px;
+  flex-grow: 1;
+}
